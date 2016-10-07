@@ -19,7 +19,9 @@ def chain(n):
 
 
 
+# this allows us to run the python script from the command line
 if __name__ == "__main__":
-	print sys.argv
+	# check length of arguments
 	if len(sys.argv) > 1:
+		# initiate the function using the command line argument, converted to an integer (by default arguments are read as strings)
 		chain(int(sys.argv[1]))
