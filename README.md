@@ -20,4 +20,5 @@ Recursion can be complicated to get your head around. This directory contains sa
 ```recursive_countdown.py```, and the python3 alternative, counts down from a specific value, passed as a command line argument. It uses prints to trace the running of the program.
 
 A video that might help.
+
 [![Alt text](https://img.youtube.com/vi/Mv9NEXX1VHc/0.jpg)](https://www.youtube.com/watch?v=Mv9NEXX1VHc)
